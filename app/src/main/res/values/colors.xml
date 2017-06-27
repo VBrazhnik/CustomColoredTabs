@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="tab_calendar">#7ED321</color>
+    <color name="tab_past">#E5615C</color>
+    <color name="tab_future">#40AAB9</color>
+    <color name="tab_settings">#F5A623</color>
+
+</resources>
